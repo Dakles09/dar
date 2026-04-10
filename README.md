@@ -1,5 +1,4 @@
 # Darwin David Rosero Iturre
-#Aquí tienes una presentación de tu perfil profesional redactada en primera persona, ideal para un "Acerca de mí" o una introducción personal:
 
 Mi Perfil como Desarrollador
 Soy un desarrollador enfocado en la intersección entre la lógica de programación y la creación de experiencias interactivas. Mi enfoque no se limita solo a escribir código, sino a entender la arquitectura completa de un proyecto, desde el modelado inicial de datos hasta el despliegue del producto final.
