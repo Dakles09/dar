@@ -1,4 +1,5 @@
 # Darwin David Rosero Iturre
+![WhatsApp Image 2026-04-10 at 8 34 58 AM](https://github.com/user-attachments/assets/6d0835b2-b66d-4423-be5b-2ef409ec1c2e)
 
 Mi Perfil como Desarrollador
 Soy un desarrollador enfocado en la intersección entre la lógica de programación y la creación de experiencias interactivas. Mi enfoque no se limita solo a escribir código, sino a entender la arquitectura completa de un proyecto, desde el modelado inicial de datos hasta el despliegue del producto final.
